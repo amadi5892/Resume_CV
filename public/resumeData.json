@@ -1,0 +1,164 @@
+{
+  "main": {
+    "name":"Parrish Williamson",
+    "occupation":"Full Stack Developer",
+    "description":"Full Stack Developer with an emphasis on Front-End. I provide web/application development, UI/UX designs, intuitive and responsive designs.",
+    "image":"profilepic.jpg",
+    "bio":"I'm a creator. I love art in all forms, and I love to express my own creativity from drawing, to music, to clothing. I am an entreprenuer who likes to explore many topics and solutions.",
+    "contactmessage":"Here is where you should write your message to readers to have them get in contact with you.",
+    "email": "williamsonparrish@gmail.com",
+    "phone": "646-512-1642",
+    "address":{
+      "street":"",
+      "city":"New York City,",
+      "state":"New York",
+      "zip": "10034"
+    },
+    "website": "http://www.timbakerdev.com",
+    "resumedownload":"http://timbakerdev.com",
+    "social":[
+      {
+        "name":"facebook",
+        "url":"http://facebook.com/tim.baker.906",
+        "className":"fa fa-facebook"
+      },
+      {
+        "name":"twitter",
+        "url":"http://twitter.com",
+        "className":"fa fa-twitter"
+      },
+      {
+        "name":"google-plus",
+        "url":"http://googleplus.com/tbakerx",
+        "className":"fa fa-google-plus"
+      },
+      {
+        "name":"linkedin",
+        "url":"https://www.linkedin.com/in/tim-baker-8420009a/",
+        "className":"fa fa-linkedin"
+      },
+      {
+        "name":"instagram",
+        "url":"http://instagram.com/tbaker_x",
+        "className":"fa fa-instagram"
+      },
+      {
+        "name":"github",
+        "url":"http://github.com/tbakerx",
+        "className":"fa fa-github"
+      },
+      {
+        "name":"skype",
+        "url":"http://skype.com",
+        "className":"fa fa-skype"
+      }
+    ]
+  },
+  "resume":{
+    "skillmessage":"Here you can create a short write-up of your skills to show off to employers",
+    "education":[
+      {
+        "school":"Per Scholas",
+        "degree":"Software Engineering",
+        "graduated":"September 11, 2020",
+        "description":"Fast paced four months of intensive learning various languages and concepts in Software Engineering. "
+      },
+      {
+        "school":"University of North Florida",
+        "degree":"Mechanical Engineering",
+        "graduated":"",
+        "description":"Studied Mechanincal Engineering with an emphasis on Automotive Engineering. Built a collegiate level formula race car for 3.5 years."
+      }
+    ],
+    "work":[
+      {
+        "company":"Awesome Design Studio",
+        "title":"Senior UX God ",
+        "years":"March 2010 - Present",
+        "description":"Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
+      },
+      {
+        "company":"",
+        "title":"",
+        "years":"",
+        "description":""
+      }
+    ],
+    "skills":[
+      {
+        "name":"Git",
+        "level":"60%"
+      },
+      {
+        "name":"Illustrator",
+        "level":"60%"
+      },
+      {
+        "name":"ReactJs",
+        "level":"50%"
+      },
+      {
+        "name":"CSS",
+        "level":"90%"
+      },
+      {
+        "name":"HTML5",
+        "level":"85%"
+      },
+      {
+        "name":"Java",
+        "level":"30%"
+      },
+      {
+        "name":"MongoDB",
+        "level":"0%"
+      }
+    ]
+  },
+  "portfolio":{
+    "projects": [
+      {
+        "title":"Space Battle",
+        "category":"Console/HTML Game",
+        "image":"spacebattle.jpg",
+        "url":"https://amadi5892.github.io/Space-Battle/"
+      },
+      {
+        "title":"Street Battle",
+        "category":"Online Computer Game, similar to miniclips.com games",
+        "image":"StreetBattle.jpg",
+        "url":"https://amadi5892.github.io/Street_Battle/"
+      },
+      {
+        "title":"Pawtastic (Form)",
+        "category":"A form I built to represent a form used for a Pet Services company.",
+        "image":"Pawtastic.jpg",
+        "url":"https://amadi5892.github.io/Pawtastic/"
+      },
+      {
+        "title":"Resume Website",
+        "category":"A React based resume website template",
+        "image":"resume-website.jpg",
+        "url":"http://www.timbakerdev.com"
+      },
+      {
+        "title":"Smirkspace",
+        "category":"(MVP Only) A React and Meteor based chat University project.",
+        "image":"smirkspace.jpg",
+        "url":"http://www.smirkspace.com"
+      }
+    ]
+  },
+  "testimonials":{
+    "testimonials":[
+      {
+        "text":"Here you should write some nice things that someone has said about you. No lies though, employers can tell when you are lying.",
+        "user":"Kareem Abdul Jabbar"
+      },
+      {
+        "text":"That Tim Baker must be one of the most brilliant developers I've ever met! It is amazing that nobody has hired him yet. Hey you, you should hire this guy, he may be fresh out of University and have zero on the job experience but I am confident that he will be one of your best developers in no time!",
+        "user":"Steve Wozniak... impersonator"
+      }
+    ]
+  }
+}
