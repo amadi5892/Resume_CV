@@ -137,27 +137,27 @@
       },
       {
         "title":"Resume Website",
-        "category":"A React based resume website template",
+        "category":"A React based resume website, built using a template",
         "image":"resume-website.jpg",
-        "url":"http://www.timbakerdev.com"
+        "url":"parrish-cv.surge.sh"
       },
       {
-        "title":"Smirkspace",
-        "category":"(MVP Only) A React and Meteor based chat University project.",
-        "image":"smirkspace.jpg",
-        "url":"http://www.smirkspace.com"
+        "title":"Aesop Replica",
+        "category":"This is a replica site I built using React and Bootstrap.",
+        "image":"Aesop.jpg",
+        "url":"http://aesop-replica-pari.surge.sh/"
       }
     ]
   },
   "testimonials":{
     "testimonials":[
       {
-        "text":"Here you should write some nice things that someone has said about you. No lies though, employers can tell when you are lying.",
-        "user":"Kareem Abdul Jabbar"
+        "text":"",
+        "user":""
       },
       {
-        "text":"That Tim Baker must be one of the most brilliant developers I've ever met! It is amazing that nobody has hired him yet. Hey you, you should hire this guy, he may be fresh out of University and have zero on the job experience but I am confident that he will be one of your best developers in no time!",
-        "user":"Steve Wozniak... impersonator"
+        "text":"",
+        "user":""
       }
     ]
   }
