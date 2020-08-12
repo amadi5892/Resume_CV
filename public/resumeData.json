@@ -3,9 +3,9 @@
     "name":"Parrish Williamson",
     "occupation":"Full Stack Developer",
     "description":"Full Stack Developer with an emphasis on Front-End. I provide web/application development, UI/UX designs, intuitive and responsive designs.",
-    "image":"profilepic.jpg",
+    "image":"profilepic2.jpg",
     "bio":"I'm a creator. I love art in all forms, and I love to express my own creativity from drawing, to music, to clothing. I am an entreprenuer who likes to explore many topics and solutions.",
-    "contactmessage":"Here is where you should write your message to readers to have them get in contact with you.",
+    "contactmessage":"Feel free to reach out to me for any inquiries or questions you may have.",
     "email": "williamsonparrish@gmail.com",
     "phone": "646-512-1642",
     "address":{
@@ -14,37 +14,37 @@
       "state":"New York",
       "zip": "10034"
     },
-    "website": "http://www.timbakerdev.com",
+    "website": "",
     "resumedownload":"MyCv.pdf",
     "social":[
       {
         "name":"facebook",
-        "url":"http://facebook.com/tim.baker.906",
+        "url":"",
         "className":"fa fa-facebook"
       },
       {
         "name":"twitter",
-        "url":"http://twitter.com",
+        "url":"",
         "className":"fa fa-twitter"
       },
       {
         "name":"google-plus",
-        "url":"http://googleplus.com/tbakerx",
+        "url":"",
         "className":"fa fa-google-plus"
       },
       {
         "name":"linkedin",
-        "url":"https://www.linkedin.com/in/tim-baker-8420009a/",
+        "url":"https://www.linkedin.com/in/parrish-williamson-662410a1/",
         "className":"fa fa-linkedin"
       },
       {
         "name":"instagram",
-        "url":"http://instagram.com/tbaker_x",
+        "url":"https://www.instagram.com/parrish_williamson/",
         "className":"fa fa-instagram"
       },
       {
         "name":"github",
-        "url":"http://github.com/tbakerx",
+        "url":"https://github.com/amadi5892",
         "className":"fa fa-github"
       },
       {
@@ -72,10 +72,10 @@
     ],
     "work":[
       {
-        "company":"Awesome Design Studio",
-        "title":"Senior UX God ",
-        "years":"March 2010 - Present",
-        "description":"Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
+        "company":"",
+        "title":"",
+        "years":"",
+        "description":""
       },
       {
         "company":"",
